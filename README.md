@@ -35,7 +35,7 @@ $ conda install -c anaconda pandas
 ```
 * Jupyter
 ```sh
-$ conda install -c anaconda pandas
+$ conda install -c anaconda jupyter 
 ```
 * Keyboard
 ```sh
